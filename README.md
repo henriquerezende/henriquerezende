@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=HenriqueRezende&show_icons=true" alt="HenriqueRezende's status" align="right" />
+
 ## Hi, I'm Henrique! 🤘
  🌍 Global citizen living in Brazil!\
  📷 Tennis player and swimmer in my spare time...\
@@ -22,6 +24,3 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquerezende/)](https://www.linkedin.com/in/henriquerezende/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquerezendec@gmail.com)](mailto:henriquerezendec@gmail.com)
 
-
-![HenriqueRezende's status](https://github-readme-stats.vercel.app/api?username=HenriqueRezende&show_icons=true)
-![HenriqueRezende's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRezende&layout=compact&show_icons=true)
