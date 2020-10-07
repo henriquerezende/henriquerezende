@@ -13,11 +13,18 @@
 - <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 #### Hosting and Deploy
 - <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-<p> 🚀 I’m currently studying at <a
+#### Achivements
+- EmbaixaTryber (June - October 2020)
+- Fifth place at Ambev Innovation Game II - Ambulabev
+#### Currently working at
+- Chama no Zap (First place at Ambev Innovation Game II)
+
+- <p> And studying at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
   >Trybe
   </a>  to become a Full-Stack Developer by January 2021!</p>
+  
 
 #### Find me
 
