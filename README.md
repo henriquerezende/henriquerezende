@@ -2,7 +2,7 @@
 
 ## Hi, I'm Henrique! 🤘
  🌍 Global citizen living in Brazil!\
- 📷 Tennis player and swimmer in my spare time...\
+ 📷 Tennis player and swimmer in my spare time...
 ### 💻 Full-Stack Javascript Developer: 
 
 #### Frontend
