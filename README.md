@@ -15,7 +15,7 @@
 - <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
 #### Achivements
 - EmbaixaTryber (June - October 2020)
-- Fifth place at Ambev Innovation Game II - Ambulabev
+- Fifth place at Ambev Innovation Game II - Ambulabev - [Pitch Video](https://www.youtube.com/watch?v=wpPaUFZDj-A&ab_channel=LucasCardoso)
 #### Currently working at
 - Chama no Zap (First place at Ambev Innovation Game II)
 
@@ -25,10 +25,8 @@
   >Trybe
   </a>  to become a Full-Stack Developer by January 2021!</p>
   
-
 #### Find me
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquerezende/)](https://www.linkedin.com/in/henriquerezende/) 
   [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:henriquerezendec@gmail.com)](mailto:henriquerezendec@gmail.com)
   [![Whatsapp Badge](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=553199888011&text=)
-
