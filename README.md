@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=HenriqueRezende&show_icons=true" alt="HenriqueRezende's status" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=HenriqueRezende&show_icons=true&theme=dracula" alt="HenriqueRezende's status" align="right" />
 
 ## Hi, I'm Henrique! 🤘
  🌍 Global citizen living in Brazil!\
