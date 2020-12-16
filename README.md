@@ -19,11 +19,7 @@
 #### Currently working at
 - Chama no Zap (First place at Ambev Innovation Game II)
 - Quantum Web as Front End developer
-- And studying at <a
-    href="https://www.betrybe.com/" 
-    alt="Trybe"
-  >Trybe
-  </a>  to become a Full-Stack Developer by January 2021!
+- And studying at [Trybe](https://www.betrybe.com/)  to become a Full-Stack Developer by January 2021!
   
 #### Find me
 
