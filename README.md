@@ -19,6 +19,8 @@
 #### Currently working at
 - Chama no Zap (First place at Ambev Innovation Game II)
 
+- Quantum Web as Front End developer
+
 - <p> And studying at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
