@@ -2,7 +2,10 @@
 
 ## Hi, I'm Henrique! 🤘
  🌍 Global citizen living in Brazil!\
- 📷 Tennis player and swimmer in my spare time...
+ 
+ :octocat: Graduated from [Trybe's](https://www.betrybe.com/) class 3 as a full-stack developer
+ 
+ :tennis: Tennis player and swimmer in my spare time...
 ### 💻 Full-Stack Javascript Developer: 
 
 #### Frontend
