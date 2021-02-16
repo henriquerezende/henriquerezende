@@ -6,6 +6,8 @@
  :octocat: Graduated from [Trybe's](https://www.betrybe.com/) class 3 as a full-stack developer
  
  :tennis: Tennis player and swimmer in my spare time...
+ 
+ ⚡ Fast learner, advocate of Clean Code, SOLID practices and Agile Development
 ### 💻 Full-Stack Javascript Developer: 
 
 #### Frontend
