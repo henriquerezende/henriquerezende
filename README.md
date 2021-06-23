@@ -23,7 +23,7 @@
 - Fifth place at Ambev Innovation Game II - Ambulabev - [Pitch Video](https://www.youtube.com/watch?v=wpPaUFZDj-A&ab_channel=LucasCardoso)
 #### Currently working at
 - Chama no Zap (First place at Ambev Innovation Game II)
-- Quantum Web as Front End developer
+- Soon (soon.com.vc) as Full-Stack Developer
   
 #### Find me
 
