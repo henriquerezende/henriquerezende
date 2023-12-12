@@ -1,5 +1,7 @@
 ## Hi, I'm Henrique! 🤘
  🌍 Global citizen living in Brazil!\
+
+![](https://komarev.com/ghpvc/?username=henriquerezende)
  
  :octocat: Graduated from [Trybe's](https://www.betrybe.com/) class 3 as a full-stack developer
  
